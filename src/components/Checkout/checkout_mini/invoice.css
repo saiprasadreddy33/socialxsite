@@ -1,0 +1,17 @@
+
+.invoice {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+  }
+  
+  .invoice-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .invoice-details {
+    font-size: 16px;
+  }
+  

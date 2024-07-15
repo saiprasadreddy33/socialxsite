@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86d60907.css",
+    "main.js": "/static/js/main.0e139429.js",
+    "static/media/order.png": "/static/media/order.197605115cda864a1519.png",
+    "static/media/collection_cover.png": "/static/media/collection_cover.7d977e934676a94dfc24.png",
+    "static/media/happy_man.png": "/static/media/happy_man.60090f57e0688b56adf3.png",
+    "static/media/phone_in_hand.png": "/static/media/phone_in_hand.df9eb72daa1407490844.png",
+    "static/media/payment.png": "/static/media/payment.8b575752dc8cbc36d4c1.png",
+    "static/media/soc_dist.png": "/static/media/soc_dist.1024dead66e9bd1596f2.png",
+    "static/media/services_human.png": "/static/media/services_human.188c6858b54bee24ea5f.png",
+    "static/media/clorox.png": "/static/media/clorox.3e6732e1d7b707298083.png",
+    "static/media/stayfree_pads.png": "/static/media/stayfree_pads.884c12e4de24a1f0d6c8.png",
+    "static/media/axe_deodorant.png": "/static/media/axe_deodorant.a076a889fe301952b45b.png",
+    "static/media/face_mask.png": "/static/media/face_mask.36acc5fade564b19b52b.png",
+    "index.html": "/index.html",
+    "main.86d60907.css.map": "/static/css/main.86d60907.css.map",
+    "main.0e139429.js.map": "/static/js/main.0e139429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d60907.css",
+    "static/js/main.0e139429.js"
+  ]
+}

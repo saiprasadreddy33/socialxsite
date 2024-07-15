@@ -1,0 +1,99 @@
+.payment_methods {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .payment_option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .payment_option input {
+    display: none;
+  }
+  
+  .payment_box {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .payment_option input:checked + .payment_box {
+    border-color: #f45d48; 
+    background-color: #f45d48;
+    color: white;
+  }
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+  }
+  
+  .modal_content {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 0;   
+    max-width: 21rem;
+  }
+  
+  .modal_content img {
+    max-width: -webkit-fill-available;
+    margin-bottom: 20px;
+  }
+  
+  .modal_content h2 {
+    margin-bottom: 10px;
+  }
+  
+  .modal_content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .modal_content button {
+    padding: 10px 20px;
+    background-color: rgba(0, 65, 151, 1);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .modal_content button:hover {
+    background-color: #db463b;
+  }
+  
+  .close {
+    position: absolute;
+    top: 28px;
+    right: 36rem;
+    font-size: 30px;
+    cursor: pointer;
+    color: #aaa;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  

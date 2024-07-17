@@ -36,7 +36,7 @@ export const fetchProducts = (page, sortOption) => {
         {
           headers: {
             'x-rapidapi-host': 'real-time-amazon-data.p.rapidapi.com',
-            'x-rapidapi-key': '',
+            'x-rapidapi-key': 'f49af12c6amshfb5440f880f2f1fp102d63jsnb5efe73481bb',
           },
         }
       );
